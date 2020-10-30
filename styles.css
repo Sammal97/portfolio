@@ -52,6 +52,15 @@ a {
     position: relative;
 }
 
+.about-section {
+  margin-left: 10%;
+  margin-top: 7%;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 10%;
+  margin-bottom: 15%;
+  font-size: 18pt;
+}
+
 .section {
     width: 100%;
     display: block;
